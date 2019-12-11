@@ -1,0 +1,17 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-12-10T22:50:25</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.1.2.0.0</property>
+    <property name="modified">2019-12-10T22:51:39</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="step_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="7a4c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
