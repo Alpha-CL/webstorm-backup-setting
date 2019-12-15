@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping pattern="Daily 3" type="Markdown" />
-      <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
+      <mapping pattern="Daily 1" type="Markdown" />
+      <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping ext="php" type="PHP" />
+      <mapping ext="6-php predefined" type="PLAIN_TEXT" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
