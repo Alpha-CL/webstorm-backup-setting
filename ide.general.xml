@@ -1,7 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmOpenNewProject2" value="1" />
-    <option name="defaultProjectDirectory" value="$USER_HOME$/CloudStation/dlp/dlp-lrn/GitHub" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
