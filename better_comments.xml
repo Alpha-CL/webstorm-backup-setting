@@ -4,8 +4,6 @@
       <tagColor tag="!" color="#FF2D00" />
       <tagColor tag="?" color="#3498DB" />
       <tagColor tag="todo" color="#FF8C00" />
-      <tagColor tag="*" color="#98C379" />
-      <tagColor tag="step" color="#FF2D00" />
     </tagColors>
   </component>
 </application>
