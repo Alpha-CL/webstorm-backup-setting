@@ -7,6 +7,7 @@
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping ext="2-jq-loop" type="PLAIN_TEXT" />
       <mapping ext="6-php predefined" type="PLAIN_TEXT" />
