@@ -9,6 +9,7 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping ext="3-css2-base-attr" type="PLAIN_TEXT" />
       <mapping ext="2-jq-loop" type="PLAIN_TEXT" />
       <mapping ext="6-php predefined" type="PLAIN_TEXT" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
