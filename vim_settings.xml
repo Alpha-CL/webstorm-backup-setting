@@ -1,6 +1,27 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>set hlsearch</entry>
+        <entry>sp ../js/index.js</entry>
+        <entry>sp open ../js/index.js</entry>
+        <entry>open index.js</entry>
+        <entry>open index.javascript</entry>
+        <entry>vp</entry>
+        <entry>sp</entry>
+        <entry>vsp</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
@@ -54,9 +75,149 @@
         <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.2.2-Data type.md" timestamp="1583509701731">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.2.1-Data type.md" timestamp="1583510275486">
+        <mark key="]" line="47" column="16" />
+        <mark key="^" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.7.3-Object.md" timestamp="1578115468313">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/css/index.css" timestamp="1582024851170">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1585571045496">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Case/Case-JD-ByJq/css/my-swiper.css" timestamp="1582257467298">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/0.2.4-css3-text.md" timestamp="1584331983026">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/5.3-Animation/case-2/index.html" timestamp="1580964940701">
+        <mark key="[" line="25" column="16" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/0.2.2.5-css3-trantion.md" timestamp="1584528226257">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/js/myFullPage.js" timestamp="1582036612070">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="/" timestamp="1580744263984">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/example.html" timestamp="1577168169234">
+        <mark key="[" line="12" column="74" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/Css3 Example/Ex2.4.01-css3-text-shadow.html" timestamp="1584332064895">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="19" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="43" column="19" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1580744263983">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Bash" timestamp="1577435917278">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.8.2-String-Methods.md" timestamp="1577168185387">
+        <mark key="[" line="536" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.1.2-basic syntax.md" timestamp="1583507676777">
+        <mark key="[" line="101" column="3" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.5.1-Functionbasic.md" timestamp="1577435710056">
+        <mark key="'" line="949" column="3" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/example.html" timestamp="1585571047202">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="14" column="2" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.5.1-Functionbasic.md" />
+      <jump line="949" column="3" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.5.1-Functionbasic.md" />
+      <jump line="15" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.5.1-Functionbasic.md" />
+      <jump line="29" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/js/myFullPage.js" />
+      <jump line="31" column="12" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/js/myFullPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/js/myFullPage.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Case/Case-JD-ByJq/css/my-swiper.css" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="*" type="2">
+        <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>tion</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxwIGNsYXNzPSJkZW1vMSI+aGVsbG8gd29ybGQ8L3A+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogIAogKiAKICogCiAqIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICogCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAogKiAKICogCiAqIAogKiAKICogIAogKiAKICogCiAqIAogKi8KCgovKioKICogdHJhbnNpdGlvbi1wcm9lcnR5OiAKICogCiAqIAogKi8KCgovKioKICogdHJhbnNpdGlvbi1kdXJhdGlvbjoKICogCiAqIAogKi8KCi8qKgogKiB0cmFuc2l0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZSB8IGxpbmVhciB8IGVhc2UtaW4gfCBlYXNlLW91dCB8IGVhc2UtaW4tb3V0IHwgY3ViaWMtYmV6aWVyKG4sIG4sIG4sIG4pOwogKiAKICogCiAqLwoKCi8qKgogKiB0cmFuc2l0aW9uLWRlbGF5OgogKiAKICogCiAqLwoKCi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCmBgYAoKCgoKCgoKCgoKCgoKCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="true" />
