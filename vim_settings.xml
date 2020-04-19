@@ -97,7 +97,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1587278072464">
+      <file name="/GraphQL.result.json" timestamp="1587300660355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Case/Case-JD-ByJq/css/my-swiper.css" timestamp="1582257467298">
@@ -126,6 +126,9 @@
       <file name="/" timestamp="1580744263984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.2-BOM/1.1.2-BOM-Get-WindowSize-OperatorWindow.md" timestamp="1587300697949">
+        <mark key="[" line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/Css3 Example/Ex2.4.01-css3-text-shadow.html" timestamp="1584332064895">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="19" />
@@ -137,9 +140,6 @@
       </file>
       <file name="/Bash" timestamp="1577435917278">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.8.2-String-Methods.md" timestamp="1577168185387">
-        <mark key="[" line="536" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
         <mark key="'" line="0" column="0" />
@@ -182,13 +182,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
+        <text encoding="base64">KyAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="-" type="4">
         <text>tion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwIGNsYXNzPSJkZW1vMSI+aGVsbG8gd29ybGQ8L3A+Cg==</text>
+        <text encoding="base64">KyAtLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
