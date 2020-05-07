@@ -1,11 +1,6 @@
 <keymap version="1" name="Default Alpha" parent="Mac OS X 10.5+">
-  <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-    <keyboard-shortcut first-keystroke="shift quotedbl" />
-  </action>
   <action id="AceLineAction">
     <keyboard-shortcut first-keystroke="ctrl l" />
-    <keyboard-shortcut first-keystroke="shift colon" />
   </action>
   <action id="AceTargetAction" />
   <action id="EditorDown">
