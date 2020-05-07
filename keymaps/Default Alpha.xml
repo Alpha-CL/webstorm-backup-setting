@@ -1,8 +1,18 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Default Alpha" parent="Mac OS X 10.5+">
   <action id="AceLineAction">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="AceTargetAction" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift k" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift i" />
+  </action>
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
