@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="AceTargetAction" />
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="shift q" />
