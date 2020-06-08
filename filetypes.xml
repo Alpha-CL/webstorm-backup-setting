@@ -8,6 +8,7 @@
       <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping ext="php" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".stylelint" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="case-10-eg" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
