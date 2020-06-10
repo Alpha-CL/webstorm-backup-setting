@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Load Error" shouldLog="false" />
+  </component>
+</application>
