@@ -1,3 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
+  </HTMLCodeStyleSettings>
 </code_scheme>
