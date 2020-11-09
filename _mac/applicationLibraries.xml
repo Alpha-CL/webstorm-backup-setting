@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="babel" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_babel-standalone@6_babel.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_babel-standalone@6_babel.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="react-dom.development" type="javaScript">
       <properties>
         <sourceFilesUrls>
