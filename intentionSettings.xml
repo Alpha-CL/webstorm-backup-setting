@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Collapse empty tag" />
     <ignoreAction name="JavaScript/ECMAScript 6/Introduce object or array destructuring" />
+    <ignoreAction name="XML/Remove tag" />
   </component>
 </application>
