@@ -17,6 +17,8 @@
         <entry>sp</entry>
         <entry>vsp</entry>
         <entry>47</entry>
+        <entry>37</entry>
+        <entry>31</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -75,6 +77,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -83,13 +88,15 @@
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.2.2-Data type.md" timestamp="1583509701731">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" timestamp="1606395401129">
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.2.1-Data type.md" timestamp="1583510275486">
         <mark key="]" line="47" column="16" />
         <mark key="^" line="47" column="16" />
         <mark key="." line="47" column="16" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/01-js basic/1.7.3-Object.md" timestamp="1578115468313">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/css/index.css" timestamp="1582024851170">
         <mark key="[" line="9" column="0" />
@@ -97,7 +104,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1588047002223">
+      <file name="/GraphQL.result.json" timestamp="1606395326701">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Case/Case-JD-ByJq/css/my-swiper.css" timestamp="1582257467298">
@@ -138,9 +145,6 @@
       <file name="/JavaScript Console" timestamp="1580744263983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Bash" timestamp="1577435917278">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="52" column="0" />
@@ -161,6 +165,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_02-hello_world-JSX.html" timestamp="1606395748593">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="72" />
+        <mark key="." line="39" column="71" />
+        <mark key="^" line="39" column="72" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/DOM Example/Ex1.3.1-OtherEvent-dispatchEvent-submit.html" timestamp="1588047006909">
         <mark key="'" line="5" column="0" />
@@ -184,43 +194,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">KyAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>tion</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KyAtLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKGgxLCBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogIAogKiAKICogCiAqIAo=</text>
+        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICogIAogKiAKICogCiAqIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAogKiAKICogCiAqIAogKiAKICogIAogKiAKICogCiAqIAogKi8KCgovKioKICogdHJhbnNpdGlvbi1wcm9lcnR5OiAKICogCiAqIAogKi8KCgovKioKICogdHJhbnNpdGlvbi1kdXJhdGlvbjoKICogCiAqIAogKi8KCi8qKgogKiB0cmFuc2l0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZSB8IGxpbmVhciB8IGVhc2UtaW4gfCBlYXNlLW91dCB8IGVhc2UtaW4tb3V0IHwgY3ViaWMtYmV6aWVyKG4sIG4sIG4sIG4pOwogKiAKICogCiAqLwoKCi8qKgogKiB0cmFuc2l0aW9uLWRlbGF5OgogKiAKICogCiAqLwoKCi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCmBgYAoKCgoKCgoKCgoKCgoKCg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAogKiAKICogCiAqIAogKiAKICogIAogKiAKICogCiAqIAogKi8KCgovKioKICogdHJhbnNpdGlvbi1wcm9lcnR5OiAKICogCiAqIAogKi8KCgovKioKICogdHJhbnNpdGlvbi1kdXJhdGlvbjoKICogCiAqIAogKi8KCi8qKgogKiB0cmFuc2l0aW9uLXRpbWluZy1mdW5jdGlvbjogZWFzZSB8IGxpbmVhciB8IGVhc2UtaW4gfCBlYXNlLW91dCB8IGVhc2UtaW4tb3V0IHwgY3ViaWMtYmV6aWVyKG4sIG4sIG4sIG4pOwogKiAKICogCiAqLwoKCi8qKgogKiB0cmFuc2l0aW9uLWRlbGF5OgogKiAKICogCiAqLwoKCi8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vCmBgYAoKCgoKCgoKCgoKCgoKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>47</text>
+        <text>31</text>
       </register>
     </registers>
   </component>
@@ -231,7 +241,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="true" />
