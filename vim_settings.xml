@@ -27,15 +27,15 @@
         <entry>599</entry>
         <entry>614</entry>
         <entry>595</entry>
-        <entry encoding="base64">JzwsJz5zZXQgaGxzZWFyY2g=</entry>
         <entry>w</entry>
-        <entry>noh</entry>
         <entry>set hlsearch</entry>
         <entry>open %</entry>
         <entry>!open %</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>652</entry>
+        <entry encoding="base64">JzwsJz5zZXQgaGxzZWFyY2g=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,13 +161,13 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606443118574">
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606445592723">
         <mark key="d" line="664" column="3" />
-        <mark key="'" line="621" column="0" />
-        <mark key="[" line="664" column="3" />
-        <mark key="]" line="664" column="3" />
-        <mark key="^" line="664" column="4" />
-        <mark key="." line="664" column="3" />
+        <mark key="'" line="664" column="31" />
+        <mark key="[" line="685" column="29" />
+        <mark key="]" line="686" column="69" />
+        <mark key="." line="686" column="51" />
+        <mark key="^" line="682" column="46" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
         <mark key="'" line="0" column="0" />
@@ -230,7 +230,6 @@
       <jump line="613" column="8" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="622" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="620" column="45" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
-      <jump line="628" column="18" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="635" column="9" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="91" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="255" column="1" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
@@ -244,6 +243,11 @@
       <jump line="584" column="4" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="654" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="621" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="676" column="33" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="628" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="685" column="7" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="626" column="75" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="664" column="31" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -252,22 +256,22 @@
         <text />
       </register>
       <register name="*" type="4">
-        <text>☄</text>
+        <text encoding="base64">IOWbnuiHsyDnrKwx5q2l77yM55u06Iez6YCS5b2S6YGN5Y6G57uT5p2fICA=</text>
       </register>
       <register name="-" type="4">
-        <text>☄</text>
+        <text>No</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
       </register>
       <register name="0" type="4">
-        <text>创建该节点的 React元素</text>
+        <text encoding="base64">IOWbnuiHsyDnrKwx5q2l77yM55u06Iez6YCS5b2S6YGN5Y6G57uT5p2fICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -276,22 +280,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8tIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtLy8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWQgbHMgLS0K</text>
+        <text encoding="base64">Ly8tIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtLy8K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">bWQgbHMgLS0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MSkgCgoyKSAKCjMpIAo=</text>
+        <text encoding="base64">bWQgbHMgLS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogUmVhY3QgRWxlbWVudCAgICAgICAgICAgICAgICAvLyBEb20gRWxlbWVudAogKiAKICogIAo=</text>
+        <text encoding="base64">MSkgCgoyKSAKCjMpIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>652</text>
+        <text>noh</text>
       </register>
     </registers>
   </component>
