@@ -6,7 +6,10 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxSZWFjdEFycmF5Tm9kZVw+</entry>
+        <entry>react</entry>
+      </history-search>
       <history-cmd>
         <entry>sp ../js/index.js</entry>
         <entry>sp open ../js/index.js</entry>
@@ -18,11 +21,20 @@
         <entry>47</entry>
         <entry>37</entry>
         <entry>31</entry>
-        <entry>set hlsearch</entry>
         <entry>34</entry>
-        <entry>q</entry>
         <entry>set surround</entry>
         <entry>594</entry>
+        <entry>599</entry>
+        <entry>614</entry>
+        <entry>595</entry>
+        <entry encoding="base64">JzwsJz5zZXQgaGxzZWFyY2g=</entry>
+        <entry>w</entry>
+        <entry>noh</entry>
+        <entry>set hlsearch</entry>
+        <entry>open %</entry>
+        <entry>!open %</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,7 +122,7 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1606395326701">
+      <file name="/GraphQL.result.json" timestamp="1606434083082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Case/Case-JD-ByJq/css/my-swiper.css" timestamp="1582257467298">
@@ -136,8 +148,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/" timestamp="1580744263984">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" timestamp="1606437771762">
+        <mark key="'" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.2-BOM/1.1.2-BOM-Get-WindowSize-OperatorWindow.md" timestamp="1587300697949">
         <mark key="[" line="44" column="0" />
@@ -148,8 +160,12 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606398015399">
-        <mark key="[" line="593" column="2" />
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606437648100">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="621" column="0" />
+        <mark key="]" line="621" column="0" />
+        <mark key="." line="621" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
         <mark key="'" line="0" column="0" />
@@ -201,6 +217,30 @@
       <jump line="10" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" />
       <jump line="31" column="1" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" />
       <jump line="33" column="3" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" />
+      <jump line="599" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="597" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="589" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="596" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="594" column="25" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="602" column="21" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="601" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="327" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="613" column="8" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="622" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="621" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="620" column="45" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="628" column="18" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="635" column="9" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="91" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="255" column="1" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="654" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="578" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="595" column="2" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="592" column="1" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" />
+      <jump line="39" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -208,51 +248,57 @@
       <register name="&quot;" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>c</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>y</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="/" type="4">
+        <text>react</text>
+      </register>
+      <register name="0" type="4">
+        <text>创建该节点的 React元素</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBjcm9zc29yaWdpbiBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3JlYWN0LWRvbUAxNi91bWQvcmVhY3QtZG9tLmRldmVsb3BtZW50LmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Ly8tIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVhY3RET00ucmVuZGVyKGgxLCBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpKTsK</text>
+        <text encoding="base64">bWQgbHMgLS0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGgxPnRpdGxlPC9oMT4KPGgyPjwvaDI+CjxoMz48L2gzPgo8aDQ+PC9oND4KPGg1PjwvaDU+CjxoNj48L2g2PgoKCgo=</text>
+        <text encoding="base64">bWQgbHMgLS0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">MSkgCgoyKSAKCjMpIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICogUmVhY3QgRWxlbWVudCAgICAgICAgICAgICAgICAvLyBEb20gRWxlbWVudAogKiAKICogIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogCiAqIAogKiAgCiAqIAo=</text>
+        <text encoding="base64">Ly8tIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogIAogKiAKICogCiAqIAo=</text>
+        <text encoding="base64">ICogUmVhY3QgTm9kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICogUmVhY3QuY3JlYXRlRWxlbWVudCgpOyBxCg==</text>
       </register>
       <register name=":" type="4">
-        <text>594</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <last-search>react</last-search>
+      <last-offset />
+      <last-pattern>react</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
