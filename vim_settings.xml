@@ -28,13 +28,13 @@
         <entry>614</entry>
         <entry>595</entry>
         <entry>w</entry>
-        <entry>set hlsearch</entry>
         <entry>open %</entry>
         <entry>!open %</entry>
         <entry>q</entry>
         <entry>qa</entry>
         <entry>652</entry>
         <entry encoding="base64">JzwsJz5zZXQgaGxzZWFyY2g=</entry>
+        <entry>set hlsearch</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
@@ -157,13 +157,13 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="43" column="19" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606722463207">
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606725084603">
         <mark key="d" line="663" column="3" />
-        <mark key="'" line="710" column="9" />
-        <mark key="[" line="732" column="14" />
-        <mark key="]" line="732" column="14" />
-        <mark key="." line="732" column="14" />
-        <mark key="^" line="732" column="36" />
+        <mark key="'" line="732" column="0" />
+        <mark key="[" line="751" column="11" />
+        <mark key="]" line="751" column="11" />
+        <mark key="^" line="751" column="11" />
+        <mark key="." line="751" column="10" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
         <mark key="'" line="0" column="0" />
@@ -237,7 +237,6 @@
       <jump line="578" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="595" column="2" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="592" column="1" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="27" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" />
       <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" />
       <jump line="39" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" />
@@ -250,6 +249,16 @@
       <jump line="626" column="75" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="664" column="31" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="710" column="9" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="719" column="12" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="714" column="10" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="740" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="0" column="2" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="1" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="741" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="707" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="711" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="742" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="732" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -257,44 +266,44 @@
       <register name="&quot;" type="4">
         <text />
       </register>
-      <register name="*" type="4">
-        <text>;</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAqIFJlYWN0IOS4uuS6huaPkOmrmOWvueavlOaViOeOh++8jOWBh+iuviAi5pu05paw55qE6IqC54K55LiN5Lya5Ye6546w5bGC5qyh56e75YqoIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Mikg5L6d5qyh6LCD55So5omn6KGM6Zif5YiX5Lit55qEIGdldFNuYXBzaG90QmVmb3JlVXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIC0g5bCG5Lqn55Sf55qE5paw6IqC54K577yM5a+55q+U5LmL5YmNIOiZmuaLn0RPTeagkeeahOiKgueCue+8jOWPkeeOsOW3ruW8gu+8jOWujOaIkOabtOaWsAogICAgCiAgICAgICAgKiBSZWFjdCDkuLrkuobmj5Dpq5jlr7nmr5TmlYjnjofvvIzlgYforr4gIuabtOaWsOeahOiKgueCueS4jeS8muWHuueOsOWxguasoeenu+WKqCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqIFJlYWN0IOS4uuS6huaPkOmrmOWvueavlOaViOeOh++8jOWBh+iuviAi5pu05paw55qE6IqC54K55LiN5Lya5Ye6546w5bGC5qyh56e75YqoIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9odG1sPg==</text>
+        <text encoding="base64">CiAgICAtIOWwhuS6p+eUn+eahOaWsOiKgueCue+8jOWvueavlOS5i+WJjSDomZrmi59ET03moJHnmoToioLngrnvvIzlj5HnjrDlt67lvILvvIzlrozmiJDmm7TmlrAKICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiAKICogCiAqIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PC9odG1sPg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">LyoqCiAqIAogKiAKICogCiAqIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
