@@ -102,78 +102,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.2.2-Data type.md" timestamp="1583509701731">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" timestamp="1606397796750">
-        <mark key="'" line="33" column="3" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="6" />
-        <mark key="^" line="33" column="6" />
-        <mark key="." line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.2.1-Data type.md" timestamp="1583510275486">
-        <mark key="]" line="47" column="16" />
-        <mark key="^" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1606722206036">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Case/Case-JD-ByJq/css/my-swiper.css" timestamp="1582257467298">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/0.2.4-css3-text.md" timestamp="1584331983026">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="8" column="2" />
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/0.2.2.5-css3-trantion.md" timestamp="1584528226257">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/jQuery-Note/Case/Case-03-Fullpage/js/myFullPage.js" timestamp="1582036612070">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" timestamp="1606437771762">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/public/index.html" timestamp="1606742587678">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/index.js" timestamp="1606449875411">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/TestStrictMode.js" timestamp="1606742889911">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.2-BOM/1.1.2-BOM-Get-WindowSize-OperatorWindow.md" timestamp="1587300697949">
         <mark key="[" line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/Css3 Example/Ex2.4.01-css3-text-shadow.html" timestamp="1584332064895">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="19" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="43" column="19" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606725084603">
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606742021856">
         <mark key="d" line="663" column="3" />
         <mark key="'" line="732" column="0" />
-        <mark key="[" line="748" column="11" />
-        <mark key="]" line="748" column="11" />
+        <mark key="[" line="759" column="5" />
+        <mark key="]" line="759" column="5" />
         <mark key="^" line="748" column="11" />
-        <mark key="." line="748" column="10" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/1.0-ECMA/1.1.2-basic syntax.md" timestamp="1583507676777">
-        <mark key="[" line="101" column="3" />
+        <mark key="." line="759" column="5" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.1-HTML/Html5 Example/Ex2.2.19-html5-video-eg.html" timestamp="1587207827740">
         <mark key="[" line="256" column="49" />
@@ -185,6 +142,48 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" timestamp="1606397796750">
+        <mark key="'" line="33" column="3" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="33" column="6" />
+        <mark key="." line="33" column="5" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1606722206036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/index.js" timestamp="1606743197424">
+        <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/0.2.2.5-css3-trantion.md" timestamp="1584528226257">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" timestamp="1606437771762">
+        <mark key="'" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/App.js" timestamp="1606742710611">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/StrictMode/index.js" timestamp="1606742880884">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/0.2-CSS/Css3 Example/Ex2.4.01-css3-text-shadow.html" timestamp="1584332064895">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="19" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="43" column="19" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.1-DOM/1.3.3-DOM-Other-Event.md" timestamp="1587278170843">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_02-hello_world-JSX.html" timestamp="1606395748593">
         <mark key="[" line="36" column="0" />
@@ -259,6 +258,10 @@
       <jump line="711" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="742" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
       <jump line="732" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/App.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/StrictMode/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/StrictMode/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/StrictMode/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -266,44 +269,44 @@
       <register name="&quot;" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAqIFJlYWN0IOS4uuS6huaPkOmrmOWvueavlOaViOeOh++8jOWBh+iuviAi5pu05paw55qE6IqC54K55LiN5Lya5Ye6546w5bGC5qyh56e75YqoIgo=</text>
+      <register name="*" type="4">
+        <text>☄</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>☄</text>
       </register>
       <register name="/" type="4">
         <text>react</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC0g5bCG5Lqn55Sf55qE5paw6IqC54K577yM5a+55q+U5LmL5YmNIOiZmuaLn0RPTeagkeeahOiKgueCue+8jOWPkeeOsOW3ruW8gu+8jOWujOaIkOabtOaWsAogICAgCiAgICAgICAgKiBSZWFjdCDkuLrkuobmj5Dpq5jlr7nmr5TmlYjnjofvvIzlgYforr4gIuabtOaWsOeahOiKgueCueS4jeS8muWHuueOsOWxguasoeenu+WKqCIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">PFJlYWN0LlN0cmljdE1vZGU+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAqIFJlYWN0IOS4uuS6huaPkOmrmOWvueavlOaViOeOh++8jOWBh+iuviAi5pu05paw55qE6IqC54K55LiN5Lya5Ye6546w5bGC5qyh56e75YqoIgo=</text>
+        <text encoding="base64">PC9odG1sPg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAtIOWwhuS6p+eUn+eahOaWsOiKgueCue+8jOWvueavlOS5i+WJjSDomZrmi59ET03moJHnmoToioLngrnvvIzlj5HnjrDlt67lvILvvIzlrozmiJDmm7TmlrAKICAgIAo=</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9odG1sPg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAqIFJlYWN0IOS4uuS6huaPkOmrmOWvueavlOaViOeOh++8jOWBh+iuviAi5pu05paw55qE6IqC54K55LiN5Lya5Ye6546w5bGC5qyh56e75YqoIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">CiAgICAtIOWwhuS6p+eUn+eahOaWsOiKgueCue+8jOWvueavlOS5i+WJjSDomZrmi59ET03moJHnmoToioLngrnvvIzlj5HnjrDlt67lvILvvIzlrozmiJDmm7TmlrAKICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiAKICogCiAqIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PC9odG1sPg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
