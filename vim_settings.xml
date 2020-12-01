@@ -103,6 +103,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" timestamp="1606397796750">
+        <mark key="'" line="33" column="3" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="6" />
+        <mark key="^" line="33" column="6" />
+        <mark key="." line="33" column="5" />
+      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/components/ErrBounds/index.js" timestamp="1606792392909">
         <mark key="[" line="43" column="14" />
         <mark key="]" line="43" column="14" />
@@ -114,48 +121,7 @@
         <mark key="^" line="50" column="17" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/public/index.html" timestamp="1606742587678">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/index.js" timestamp="1606449875411">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/TestStrictMode.js" timestamp="1606742889911">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/JavaScript-Note/3.2-BOM/1.1.2-BOM-Get-WindowSize-OperatorWindow.md" timestamp="1587300697949">
-        <mark key="[" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/components/ErrBounds/Error01/index.js" timestamp="1606791366619">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606742021856">
-        <mark key="d" line="663" column="3" />
-        <mark key="'" line="732" column="0" />
-        <mark key="[" line="759" column="5" />
-        <mark key="]" line="759" column="5" />
-        <mark key="^" line="748" column="11" />
-        <mark key="." line="759" column="5" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1606792031369">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_01-hello_world-React.html" timestamp="1606397796750">
-        <mark key="'" line="33" column="3" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="6" />
-        <mark key="^" line="33" column="6" />
-        <mark key="." line="33" column="5" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1606792031358">
+      <file name="/GraphQL.result.json" timestamp="1606806842252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/App.js" timestamp="1606790984962">
@@ -164,11 +130,21 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="4" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/public/index.html" timestamp="1606742587678">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/index.js" timestamp="1606744110558">
         <mark key="[" line="47" column="26" />
         <mark key="]" line="47" column="42" />
         <mark key="^" line="12" column="4" />
         <mark key="." line="47" column="26" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/index.js" timestamp="1606449875411">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/01-vue_2.0/Example/Ex1.1.02-vue-response-1.html" timestamp="1606437771762">
         <mark key="'" line="39" column="0" />
@@ -180,11 +156,37 @@
       <file name="/" timestamp="1606792031369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/TestStrictMode.js" timestamp="1606742889911">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/components/ErrBounds/Error01/index.js" timestamp="1606791366619">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/13-stric_mode/src/components/StrictMode/index.js" timestamp="1606744402949">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="20" />
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/note/03-react_advance.md" timestamp="1606742021856">
+        <mark key="d" line="663" column="3" />
+        <mark key="'" line="732" column="0" />
+        <mark key="[" line="759" column="5" />
+        <mark key="]" line="759" column="5" />
+        <mark key="^" line="748" column="11" />
+        <mark key="." line="759" column="5" />
+      </file>
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.4.00/01-hooks-use_state/src/components/UseState/index.js" timestamp="1606806795707">
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="12" />
+        <mark key="." line="62" column="12" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1606792031369">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_02-hello_world-JSX.html" timestamp="1606395748593">
         <mark key="[" line="36" column="0" />
@@ -297,11 +299,11 @@
       <register name="&quot;" type="4">
         <text />
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>stae</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>stae</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jdGlvblw+</text>
