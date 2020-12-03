@@ -10,6 +10,7 @@
         <entry encoding="base64">XDxSZWFjdEFycmF5Tm9kZVw+</entry>
         <entry>react</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry>Problem</entry>
       </history-search>
       <history-cmd>
         <entry>sp ../js/index.js</entry>
@@ -35,8 +36,9 @@
         <entry>qa</entry>
         <entry>652</entry>
         <entry encoding="base64">JzwsJz5zZXQgaGxzZWFyY2g=</entry>
-        <entry>set hlsearch</entry>
         <entry>noh</entry>
+        <entry>set hlsearch</entry>
+        <entry>%s/Problem/UseImperativeHandle/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,7 +123,7 @@
         <mark key="^" line="50" column="17" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1606887978812">
+      <file name="/GraphQL.result.json" timestamp="1606984522729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Case/10-students_list_of_fncmp/public/index.html" timestamp="1606888024149">
@@ -193,11 +195,8 @@
       <file name="/JavaScript Console" timestamp="1606792031369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.1.01-eg_02-hello_world-JSX.html" timestamp="1606395748593">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="39" column="72" />
-        <mark key="." line="39" column="71" />
-        <mark key="^" line="39" column="72" />
+      <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.4.00/09-hooks-use_imperative_handle/src/components/UseImperativeHandle/index.js" timestamp="1606984614542">
+        <mark key="'" line="11" column="9" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/public/index.html" timestamp="1606449848889">
         <mark key="[" line="0" column="0" />
@@ -293,6 +292,9 @@
       <jump line="28" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/components/ErrBounds/Error01/index.js" />
       <jump line="30" column="0" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/components/ErrBounds/Error01/index.js" />
       <jump line="103" column="19" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.3.00/10-error-bounds/src/components/Error01/index.js" />
+      <jump line="29" column="1" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.4.00/09-hooks-use_imperative_handle/src/components/UseImperativeHandle/index.js" />
+      <jump line="37" column="4" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.4.00/09-hooks-use_imperative_handle/src/components/UseImperativeHandle/index.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Example/Ex1.4.00/09-hooks-use_imperative_handle/src/components/UseImperativeHandle/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +309,7 @@
         <text>stae</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvblw+</text>
+        <text>Problem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gQ29tcDEoKSB7CgogICAgcmV0dXJuICgKCiAgICAgICAgPGRpdgogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgd2lkdGg6ICcxMDAlJywKICAgICAgICAgICAgICAgIGhlaWdodDogJzEwMCUnLAogICAgICAgICAgICAgICAgYm9yZGVyOiAnMnB4IHNvbGlkJywKICAgICAgICAgICAgfX0KICAgICAgICA+CiAgICAgICAgICAgIDxoMz5Db21wXzAxPC9oMz4KICAgICAgICA8L2Rpdj4KICAgICk7Cn0K</text>
@@ -340,17 +342,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>%s/Problem/UseImperativeHandle/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
+      <last-search>Problem</last-search>
+      <last-offset>UseImperativeHandle</last-offset>
+      <last-pattern>Problem</last-pattern>
+      <last-replace>UseImperativeHandle</last-replace>
+      <last-substitute>Problem</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
