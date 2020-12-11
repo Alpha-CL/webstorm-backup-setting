@@ -123,7 +123,7 @@
         <mark key="^" line="50" column="17" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1606984522729">
+      <file name="/GraphQL.result.json" timestamp="1607669330692">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub/Framework-library-note/03-react/Case/10-students_list_of_fncmp/public/index.html" timestamp="1606888024149">
@@ -354,7 +354,7 @@
       <last-replace>UseImperativeHandle</last-replace>
       <last-substitute>Problem</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
