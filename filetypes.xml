@@ -14,13 +14,13 @@
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
+      <mapping ext="2-jq-loop" type="PLAIN_TEXT" />
       <mapping ext="7-es6-" type="PLAIN_TEXT" />
       <mapping ext="3-css2-base-attr" type="PLAIN_TEXT" />
       <mapping ext="6-php predefined" type="PLAIN_TEXT" />
-      <mapping ext="2-jq-loop" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
