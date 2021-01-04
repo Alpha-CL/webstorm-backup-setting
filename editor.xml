@@ -2,4 +2,5 @@
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
 </application>
