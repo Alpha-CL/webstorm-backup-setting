@@ -8,6 +8,13 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta underscore" />
+  </action>
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="shift meta plus" />
+  </action>
+  <action id="CollapseRegionRecursively" />
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="shift q" />
