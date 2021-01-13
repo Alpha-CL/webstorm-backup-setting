@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="syntax.md" type="AUTO_DETECTED" />
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
       <mapping pattern="1,2,4-Data-seperator" type="Markdown" />
