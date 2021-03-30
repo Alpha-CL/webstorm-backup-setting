@@ -1,6 +1,7 @@
 <application>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
   </component>
   <component name="LiveEditOptions" restartIfHotSwapFailed="true" />
 </application>
