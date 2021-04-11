@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
