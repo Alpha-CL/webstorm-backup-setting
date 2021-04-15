@@ -24,7 +24,7 @@
   </action>
   <action id="EditorScrollToCenter" />
   <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift meta plus" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="FindPrevious" />
   <action id="OpenInBrowser">
