@@ -11,6 +11,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
+  <action id="CodeGlance.toggle" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
@@ -25,6 +26,7 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta plus" />
   </action>
+  <action id="FindPrevious" />
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
