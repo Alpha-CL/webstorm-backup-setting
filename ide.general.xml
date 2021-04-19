@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="$USER_HOME$/SynologyDrive/Drive/dlp/dlp-lrn/GitHub" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
