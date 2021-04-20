@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="385" />
+    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="TS2345: Argument of type '(prevState: Readonly&lt;IState&gt;) =&gt; { chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' is not assignable to parameter of type 'IState | ((prevState: Readonly&lt;IState&gt;, props: Readonly&lt;{}&gt;) =&gt; IState | Pick&lt;IState, keyof IState&gt; | null) | Pick&lt;...&gt; | null'.   Type '(prevState: Readonly&lt;IState&gt;) =&gt; { chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' is not assignable to type '(prevState: Readonly&lt;IState&gt;, props: Readonly&lt;{}&gt;) =&gt; IState | Pick&lt;IState, keyof IState&gt; | null'.     Type '{ chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' is not assignable to type 'IState | Pick&lt;IState, keyof IState&gt; | null'.       Property 'gameStatus' is missing in type '{ chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' but required in type 'Pick&lt;IState, keyof IState&gt;'." />
       <item value="handle Chess Click" />
       <item value="gane Status" />
       <item value="Game Status" />
