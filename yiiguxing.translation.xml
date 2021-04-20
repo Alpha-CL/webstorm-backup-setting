@@ -1,8 +1,25 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="handle Chess Click" />
+      <item value="gane Status" />
+      <item value="Game Status" />
+      <item value="w" />
+      <item value="chesses" />
+      <item value="black Win" />
+    </histories>
+  </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1618883417041" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
