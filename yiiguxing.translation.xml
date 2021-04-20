@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="Extract public members" />
       <item value="template mode" />
       <item value="horse" />
       <item value="Accessor" />
