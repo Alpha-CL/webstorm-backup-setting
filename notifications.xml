@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId=".ignore" shouldReadAloud="true" playSound="true" />
     <notification groupId="Load Error" shouldLog="false" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
 </application>
