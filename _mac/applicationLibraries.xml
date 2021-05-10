@@ -35,6 +35,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="font_2521460_ssrkf6f0nq" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__at.alicdn.com_t_font_2521460_ssrkf6f0nq.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__at.alicdn.com_t_font_2521460_ssrkf6f0nq.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery.slim" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
