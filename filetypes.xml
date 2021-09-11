@@ -5,6 +5,7 @@
       <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
       <mapping pattern="logger" type="AUTO_DETECTED" />
       <mapping pattern="syntax.md" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
       <mapping pattern="1,2,4-Data-seperator" type="Markdown" />
@@ -18,12 +19,11 @@
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="7-es6-" type="PLAIN_TEXT" />
-      <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
       <mapping ext="sit" type="PLAIN_TEXT" />
       <mapping ext="2-jq-loop" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="3-css2-base-attr" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
