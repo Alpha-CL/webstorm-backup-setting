@@ -29,14 +29,17 @@
       <mapping ext="6-php predefined" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
