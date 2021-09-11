@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS System Shortcuts copy" parent="macOS System Shortcuts">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt f12" />
+  </action>
+</keymap>

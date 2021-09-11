@@ -1,7 +1,7 @@
 <application>
   <component name="CodeGlance">
-    <option name="disabled" value="true" />
     <option name="locked" value="true" />
+    <option name="percentageBasedClick" value="true" />
     <option name="width" value="80" />
   </component>
 </application>
