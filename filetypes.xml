@@ -12,8 +12,8 @@
       <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping pattern="Daily 3" type="Markdown" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="case-10-eg" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
+      <mapping pattern="case-10-eg" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
@@ -22,8 +22,8 @@
       <mapping ext="sit" type="PLAIN_TEXT" />
       <mapping ext="2-jq-loop" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="3-css2-base-attr" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
@@ -34,7 +34,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
