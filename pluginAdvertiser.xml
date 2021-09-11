@@ -50,8 +50,9 @@
         <entry key="*.bash">
           <value>
             <plugin>
-              <option name="myPluginId" value="pro.bashsupport" />
-              <option name="myPluginName" value="BashSupport Pro" />
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1273,8 +1274,9 @@
         <entry key="*.sh">
           <value>
             <plugin>
-              <option name="myPluginId" value="pro.bashsupport" />
-              <option name="myPluginName" value="BashSupport Pro" />
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1728,8 +1730,9 @@
         <entry key="*.zsh">
           <value>
             <plugin>
-              <option name="myPluginId" value="pro.bashsupport" />
-              <option name="myPluginName" value="BashSupport Pro" />
+              <option name="myPluginId" value="com.jetbrains.sh" />
+              <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2201,7 +2204,7 @@
                   </entry>
                   <entry key="ShConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Shell Script (by BashSupport Pro)" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
