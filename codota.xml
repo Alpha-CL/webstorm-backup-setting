@@ -24,6 +24,11 @@
         <option value="deep-completions" />
       </set>
     </option>
+    <option name="usedLanguages">
+      <set>
+        <option value="javascript" />
+      </set>
+    </option>
     <option name="lastTabnineRecommendationDisplayDate" value="1631388701420" />
     <option name="tabnineRecommendationDontShowAgain" value="true" />
   </component>
