@@ -1,0 +1,9 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="ignoredRemotes">
+      <list>
+        <option value="https://gitlab.crc.com.cn/crcsoft-dc-netool/marvelnet-frontend.git" />
+      </list>
+    </option>
+  </component>
+</application>
