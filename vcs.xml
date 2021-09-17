@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="Alpha-CL" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.crc.com.cn" />
+          <option name="userName" value="beyondsoft-100" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
