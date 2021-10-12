@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId=".ignore" shouldReadAloud="true" playSound="true" />
+    <notification groupId="JavaScript Debugger Console URL Starter" displayType="NONE" shouldLog="false" />
     <notification groupId="Load Error" shouldLog="false" />
     <notification groupId="Vcs Notifications" shouldLog="false" />
   </component>
