@@ -4,6 +4,7 @@
       <mapping pattern="sql" type="AUTO_DETECTED" />
       <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
       <mapping pattern="logger" type="AUTO_DETECTED" />
+      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
       <mapping pattern="syntax.md" type="AUTO_DETECTED" />
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
