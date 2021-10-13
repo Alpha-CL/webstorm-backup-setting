@@ -1,9 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="SQLite" injector-id="js">
-      <display-name>flash.data (SQLite)</display-name>
-      <place><![CDATA[jsLiteral().and(asAssignedValue("text", "*", "dbStatement"))]]></place>
-      <place><![CDATA[jsLiteral().and(asAssignedValue("text", "flash.data.SQLStatement"))]]></place>
-    </injection>
-  </component>
-</application>

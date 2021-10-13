@@ -1,6 +1,11 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="commitMessageValidationConfig">
+      <CommitMessageValidationConfig>
+        <option name="enabled" value="true" />
+      </CommitMessageValidationConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="5" />
   </component>
 </application>
