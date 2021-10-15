@@ -1198,6 +1198,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.proto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="io.kanro.idea.plugin.protobuf" />
+              <option name="myPluginName" value="Protobuf" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
