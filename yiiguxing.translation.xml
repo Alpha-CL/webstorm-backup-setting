@@ -34,13 +34,12 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634092720900" />
+    <option name="lastTrimTime" value="1634525809518" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
