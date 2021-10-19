@@ -18,6 +18,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="7-es6-" type="PLAIN_TEXT" />
       <mapping ext="sit" type="PLAIN_TEXT" />
