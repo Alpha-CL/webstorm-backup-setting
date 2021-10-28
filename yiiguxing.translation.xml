@@ -43,6 +43,5 @@
       </google-translate>
     </option>
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
