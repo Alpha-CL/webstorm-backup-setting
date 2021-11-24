@@ -34,7 +34,7 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634982257294" />
+    <option name="lastTrimTime" value="1637749071155" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -43,5 +43,6 @@
       </google-translate>
     </option>
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
