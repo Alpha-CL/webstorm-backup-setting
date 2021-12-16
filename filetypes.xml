@@ -31,6 +31,7 @@
       <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="6-php predefined" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <hashBang value="*.vue" type="Vue.js" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
