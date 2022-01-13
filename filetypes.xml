@@ -12,6 +12,7 @@
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
       <mapping pattern="Daily 3" type="Markdown" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
