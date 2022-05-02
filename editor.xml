@@ -2,6 +2,9 @@
   <component name="CodeInsightSettings">
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="10" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
