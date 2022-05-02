@@ -1,24 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
-      <mapping pattern="logger" type="AUTO_DETECTED" />
-      <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
-      <mapping pattern="syntax.md" type="AUTO_DETECTED" />
-      <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
-      <mapping pattern="sql" type="AUTO_DETECTED" />
-      <mapping pattern="1,2,4-Data-seperator" type="Markdown" />
-      <mapping pattern="JavaScript书写规范" type="Markdown" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
+      <mapping pattern="1,2,4-Data-seperator" type="Markdown" />
+      <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping pattern="Daily 3" type="Markdown" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
-      <mapping pattern=".elintignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="case-10-eg" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".elintignore" type="PLAIN_TEXT" />
+      <mapping pattern="common" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="7-es6-" type="PLAIN_TEXT" />
       <mapping ext="sit" type="PLAIN_TEXT" />
@@ -32,27 +28,38 @@
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
       <hashBang value="*.vue" type="Vue.js" />
-      <removed_mapping ext="bash" approved="true" type="Shell Script" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="sh" approved="true" type="Shell Script" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
-      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PHP" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
+      <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
+      <mapping pattern="logger" type="AUTO_DETECTED" />
+      <mapping pattern="sql" type="AUTO_DETECTED" />
+      <mapping pattern="syntax.md" type="AUTO_DETECTED" />
+      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
