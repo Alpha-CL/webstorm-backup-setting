@@ -10,6 +10,7 @@
       <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
       <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
       <mapping pattern="syntax.md" type="AUTO_DETECTED" />
+      <mapping pattern="tesst" type="AUTO_DETECTED" />
       <mapping pattern="Daily 1" type="Markdown" />
       <mapping pattern="Daily 2" type="Markdown" />
       <mapping pattern="1,2,4-Data-seperator" type="Markdown" />
