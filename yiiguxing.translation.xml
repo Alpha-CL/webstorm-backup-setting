@@ -4,6 +4,18 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="我啊爱" />
+      <item value="我啊爱你" />
+      <item value="你好" />
+      <item value="你好不好" />
+      <item value="你好不" />
+      <item value="你" />
+      <item value="he" />
+      <item value="啊" />
+      <item value="a" />
+      <item value="aa" />
+      <item value="a " />
+      <item value="aaa" />
       <item value="别名&#10;" />
       <item value="b" />
       <item value="bi" />
@@ -49,10 +61,9 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="AFRIKAANS" />
+        <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
-    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
