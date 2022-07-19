@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.vscode;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="sql" type="AUTO_DETECTED" />
       <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
       <mapping pattern="03-this-binding" type="AUTO_DETECTED" />
       <mapping pattern="logger" type="AUTO_DETECTED" />
-      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
-      <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
       <mapping pattern="02-scope" type="AUTO_DETECTED" />
+      <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
+      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
       <mapping pattern="syntax.md" type="AUTO_DETECTED" />
       <mapping pattern="tesst" type="AUTO_DETECTED" />
       <mapping pattern="Daily 1" type="Markdown" />
