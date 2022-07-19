@@ -51,4 +51,7 @@
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
 </keymap>
