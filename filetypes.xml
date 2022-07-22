@@ -8,9 +8,9 @@
       <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
       <mapping pattern="03-this-binding" type="AUTO_DETECTED" />
       <mapping pattern="logger" type="AUTO_DETECTED" />
-      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
-      <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
       <mapping pattern="02-scope" type="AUTO_DETECTED" />
+      <mapping pattern="StrategySource.vue" type="AUTO_DETECTED" />
+      <mapping pattern="vue-cli-service" type="AUTO_DETECTED" />
       <mapping pattern="syntax.md" type="AUTO_DETECTED" />
       <mapping pattern="tesst" type="AUTO_DETECTED" />
       <mapping pattern="Daily 1" type="Markdown" />
@@ -19,8 +19,8 @@
       <mapping pattern="JavaScript书写规范" type="Markdown" />
       <mapping pattern="Daily 3" type="Markdown" />
       <mapping ext="php" type="PHP" />
-      <mapping pattern="case-10-eg" type="PLAIN_TEXT" />
       <mapping pattern=".stylelint" type="PLAIN_TEXT" />
+      <mapping pattern="case-10-eg" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".elintignore" type="PLAIN_TEXT" />
