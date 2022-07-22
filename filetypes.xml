@@ -3,6 +3,7 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.vscode;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="FuncComp.tsx" type="AUTO_DETECTED" />
       <mapping pattern="sql" type="AUTO_DETECTED" />
       <mapping pattern="01-best_practices.md" type="AUTO_DETECTED" />
       <mapping pattern="03-this-binding" type="AUTO_DETECTED" />
@@ -43,6 +44,9 @@
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
+      <mapping pattern="aaa" type="TypeScript" />
+      <mapping pattern="FuncComp" type="TypeScript" />
+      <mapping pattern="tes" type="TypeScript JSX" />
       <hashBang value="*.vue" type="Vue.js" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
