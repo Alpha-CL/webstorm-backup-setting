@@ -2,6 +2,6 @@
   <component name="ConfigState">
     <option name="theme" value="Dark" />
     <option name="longNum" value="Auto" />
-    <option name="performance" value="1000" />
+    <option name="performance" value="400" />
   </component>
 </application>
