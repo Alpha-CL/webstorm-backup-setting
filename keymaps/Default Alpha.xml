@@ -26,6 +26,7 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
+  <action id="ExtractMethod" />
   <action id="FindPrevious" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt comma" />
@@ -42,12 +43,16 @@
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt f12" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
+  <action id="antlr.ExtractRule" />
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
