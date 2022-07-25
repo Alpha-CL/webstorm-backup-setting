@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="中文 &#10;" />
+      <item value="ni" />
+      <item value="你好世界" />
+      <item value="hello world&#10;" />
+      <item value="你的" />
+      <item value="我的" />
       <item value="我啊爱" />
       <item value="我啊爱你" />
       <item value="你好" />
@@ -49,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="14" />
         <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
@@ -64,6 +70,8 @@
         <option name="primaryLanguage" value="CHINESE" />
       </google-translate>
     </option>
+    <option name="phoneticFontFamily" value="Courier" />
+    <option name="primaryFontFamily" value="Courier" />
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
