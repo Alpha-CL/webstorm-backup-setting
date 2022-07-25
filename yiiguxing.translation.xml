@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="fragment" />
+      <item value="child" />
+      <item value="chidl" />
+      <item value="cc" />
+      <item value="fragment&#10;" />
+      <item value="fra" />
+      <item value="fragm" />
       <item value="中文 &#10;" />
       <item value="ni" />
       <item value="你好世界" />
@@ -47,16 +54,11 @@
       <item value="定义一" />
       <item value="TS2345: Argument of type '(prevState: Readonly&lt;IState&gt;) =&gt; { chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' is not assignable to parameter of type 'IState | ((prevState: Readonly&lt;IState&gt;, props: Readonly&lt;{}&gt;) =&gt; IState | Pick&lt;IState, keyof IState&gt; | null) | Pick&lt;...&gt; | null'.   Type '(prevState: Readonly&lt;IState&gt;) =&gt; { chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' is not assignable to type '(prevState: Readonly&lt;IState&gt;, props: Readonly&lt;{}&gt;) =&gt; IState | Pick&lt;IState, keyof IState&gt; | null'.     Type '{ chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' is not assignable to type 'IState | Pick&lt;IState, keyof IState&gt; | null'.       Property 'gameStatus' is missing in type '{ chesses: ChessType[]; nextChess: ChessType.red | ChessType.black; ganeStatus: GameStatus; }' but required in type 'Pick&lt;IState, keyof IState&gt;'." />
       <item value="handle Chess Click" />
-      <item value="gane Status" />
-      <item value="Game Status" />
-      <item value="w" />
-      <item value="chesses" />
-      <item value="black Win" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="17" />
         <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
