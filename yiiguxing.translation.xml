@@ -74,6 +74,5 @@
     </option>
     <option name="phoneticFontFamily" value="Courier" />
     <option name="primaryFontFamily" value="Courier" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
