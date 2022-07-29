@@ -3,7 +3,24 @@
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="AceTargetAction" />
-  <action id="ActivateTerminalToolWindow" />
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="meta alt a" />
     <keyboard-shortcut first-keystroke="ctrl alt a" />
@@ -18,6 +35,7 @@
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt minus" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="shift q" />
@@ -27,6 +45,8 @@
     <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="ExtractMethod" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
@@ -39,6 +59,7 @@
   <action id="GotoPreviousGlobalBookmark">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
+  <action id="NextWindow" />
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="meta alt m" />
   </action>
