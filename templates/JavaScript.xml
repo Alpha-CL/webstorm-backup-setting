@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="fileheader" value=" /*&#10; * ================================================================================================&#10; *&#10; * Copyright(C)&#10; *&#10; * @FilePath:       $file_path$&#10; * @Description:&#10; *&#10; * Create by chen_liang at $create_time$&#10; * &#10; * ================================================================================================&#10; */" description="file header" toReformat="false" toShortenFQNames="true">
+  <template name="fileheader" value=" /*&#10; * ================================================================================================&#10; *&#10; * Copyright(C) Hua_run_shu_chuang.All Rights Reserved&#10; *&#10; * @FilePath:       $file_path$&#10; * @Description:    1. &#10; *&#10; * Create by chen_liang at $create_time$&#10; * &#10; * ================================================================================================&#10; */" description="file header" toReformat="false" toShortenFQNames="true">
     <variable name="file_path" expression="fileRelativePath()" defaultValue="" alwaysStopAt="true" />
     <variable name="create_time" expression="date(&quot;Y-MM-dd hh:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
