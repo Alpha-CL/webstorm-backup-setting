@@ -1,0 +1,11 @@
+<templateSet group="JavaScript">
+  <template name="fileheader" value="/*&#10; * @File_name:      $file_name$&#10; * &#10; * @Author:         $anthor$&#10; * @Create_time:    $create_time$&#10; * @Update_time:    $update_time$&#10; * &#10; * @Description:    &#10; */" description="file header" toReformat="false" toShortenFQNames="true">
+    <variable name="file_name" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="anthor" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="create_time" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="update_time" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
