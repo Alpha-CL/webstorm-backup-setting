@@ -8,14 +8,19 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.crc.com.cn" />
-          <option name="userName" value="beyondsoft-73" />
+          <option name="userName" value="beyondsoft-100" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://39.108.63.212:15080" />
           <option name="userName" value="xiaodao_92@yeah.net" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.crc.com.cn/crmixclifestyle-sycpm/mixc-sycpm-frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/Drive/develop/work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
