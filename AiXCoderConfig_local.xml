@@ -3,5 +3,6 @@
     <option name="theme" value="Dark" />
     <option name="longNum" value="Auto" />
     <option name="performance" value="400" />
+    <option name="licenseError" value="true" />
   </component>
 </application>
