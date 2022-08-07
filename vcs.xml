@@ -18,6 +18,10 @@
           <option name="url" value="https://gitlab.crc.com.cn/crmixclifestyle-sycpm/mixc-sycpm-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.crc.com.cn/crmixclifestyle-space/mixc-ispace-frontend" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/Drive/develop/work" />
