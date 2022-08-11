@@ -28,7 +28,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/Drive/develop/work" />
+    <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
