@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="已结束&#10;" />
       <item value="发生错误之后，并且在更新页面之前&#10;" />
       <item value="发生错误之后，并且在更新页面之前" />
       <item value="发生错误之后，并且在更新页面之前发生错误之后，并且在更新页面之前" />
@@ -53,18 +54,17 @@
       <item value="Accessor" />
       <item value="Type constraints" />
       <item value="类型约束&#10;" />
-      <item value="keu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="32" />
         <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659110311726" />
+    <option name="lastTrimTime" value="1660199048824" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
