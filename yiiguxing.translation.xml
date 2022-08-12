@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="场地&#10;" />
       <item value="你的&#10;" />
       <item value="已结束&#10;" />
       <item value="发生错误之后，并且在更新页面之前&#10;" />
@@ -53,12 +54,11 @@
       <item value="template mode" />
       <item value="horse" />
       <item value="Accessor" />
-      <item value="Type constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="43" />
         <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
