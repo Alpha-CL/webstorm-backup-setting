@@ -14,6 +14,7 @@
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="BIDI_TEXT_DIRECTION" value="RTL" />
   </component>
