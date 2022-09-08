@@ -64,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660199048824" />
+    <option name="lastTrimTime" value="1662601924954" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -74,5 +74,6 @@
     </option>
     <option name="phoneticFontFamily" value="Courier" />
     <option name="primaryFontFamily" value="Courier" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
