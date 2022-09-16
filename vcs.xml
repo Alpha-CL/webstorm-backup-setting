@@ -34,9 +34,13 @@
           <option name="url" value="ssh://git@gitlab.crc.com.cn:2222/crmixclifestyle-space/mixc-inception-ispace-manage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alpha-CL/webgl-note.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads" />
+    <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/Drive/develop/github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
