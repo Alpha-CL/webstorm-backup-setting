@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="334" />
     <histories>
+      <item value="我&#10;" />
+      <item value="a" />
       <item value="场地&#10;" />
       <item value="你的&#10;" />
       <item value="已结束&#10;" />
@@ -35,7 +37,6 @@
       <item value="你" />
       <item value="he" />
       <item value="啊" />
-      <item value="a" />
       <item value="aa" />
       <item value="a " />
       <item value="aaa" />
@@ -53,12 +54,11 @@
       <item value="Extract public members" />
       <item value="template mode" />
       <item value="horse" />
-      <item value="Accessor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="46" />
         <entry key="AFRIKAANS" value="1" />
       </map>
     </option>
