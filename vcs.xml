@@ -38,9 +38,17 @@
           <option name="url" value="https://github.com/Alpha-CL/webgl-note.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alpha-CL/egg-temp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Alpha-CL/egg-temp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/Drive/develop/github" />
+    <option name="cloneParentDir" value="$USER_HOME$/SynologyDrive/Drive/develop/temp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
