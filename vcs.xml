@@ -15,24 +15,8 @@
           <option name="userName" value="xiaodao_92@yeah.net" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.crc.com.cn/crmixclifestyle-sycpm/mixc-sycpm-frontend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.crc.com.cn/crmixclifestyle-space/mixc-ispace-frontend" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.crc.com.cn/crmixclifestyle-space/mixc-ispace-frontend.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://code.saas.crland.com.cn" />
           <option name="userName" value="yangyuliang6" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://git@gitlab.crc.com.cn:2222/crmixclifestyle-space/mixc-inception-ispace-manage.git" />
-          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/Alpha-CL/webgl-note.git" />
